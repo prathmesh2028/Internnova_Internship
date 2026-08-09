@@ -1,3 +1,5 @@
+package Week_1;
+
 public class VariablesAndDatatypes {
     public static void main(String[] args) {
 

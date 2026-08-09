@@ -1,3 +1,5 @@
+package Week_1;
+
 public class Typecasting {
     public static void main(String[] args) {
         // type casting
